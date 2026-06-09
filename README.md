@@ -45,11 +45,14 @@ please respect your teammates' work.
 
 ## Getting Started
 
-1. Clone the repository.
-2. Open the folder for your team.
+1. Open this repository on GitHub.
+2. Go to the folder for your team (`software/`, `mechanical/`, or
+   `electrical/`).
 3. Read that folder's `README.md` for team-specific conventions and suggested
    structure.
-4. Add or edit documentation, commit with a clear message, and push.
+4. Add or edit documentation directly in the repository — use the GitHub web
+   editor or commit from your editor if you already have the repo open.
+5. Write a clear commit message and push your changes.
 
 ## Questions
 
